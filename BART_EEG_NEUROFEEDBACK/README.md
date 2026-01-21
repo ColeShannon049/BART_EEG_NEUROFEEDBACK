@@ -5,7 +5,7 @@ The project combines a Balloon Analogue Risk Task (BART) with EEG-based measures
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 BART_EEG_NEUROFEEDBACK/
 ├── Task/ # BART task implementation (PsychoPy)
